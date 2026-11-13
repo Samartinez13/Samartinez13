@@ -159,6 +159,7 @@ public class SamuelMartinez {
 <div align="center">
 
 <a href="https://github.com/Samartinez13"><img src="https://img.shields.io/badge/GitHub-Samartinez13-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:samueldavidmartinezrivera89@gmail.com"><img src="https://img.shields.io/badge/Correo-tucorreo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"/></a>
 <img src="https://img.shields.io/badge/Universidad-de%20los%20Llanos-2E7D32?style=for-the-badge" alt="Unillanos"/>
 
 <br/><br/>
