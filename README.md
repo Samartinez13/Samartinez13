@@ -22,7 +22,6 @@ Soy **Samuel Martínez**, estudiante de **Ingeniería de Sistemas en la Universi
 
 Programo en varios lenguajes porque me gusta usar la herramienta adecuada para cada problema. Con **Java y Spring** construyo aplicaciones robustas, con **Python y Django** desarrollo rápido, con **Go** hago servicios ligeros, con **C++** practico algoritmos, y con **React, JavaScript, HTML y CSS** llevo todo a la web. Diseño y consulto datos en **MySQL** y **PostgreSQL**, y uso **Docker** para que mis proyectos corran igual en cualquier máquina.
 
-- Estoy construyendo **Metamorfosis**, una aplicación para la gestión de metas personales.
 - Estoy aprendiendo **ingeniería de software** y **desarrollo orientado a la web**: buenas prácticas, patrones de diseño, arquitectura y metodologías de desarrollo.
 - Me interesan el **desarrollo backend**, las **APIs**, el **modelado de bases de datos** y la **optimización** de procesos y rutas.
 - Fuera del código me gustan mucho los **videojuegos**. También me dan curiosidad por cómo están hechos: su lógica, sus servidores y su rendimiento.
