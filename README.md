@@ -28,24 +28,6 @@ Programo en varios lenguajes porque me gusta usar la herramienta adecuada para c
 - Fuera del código me gustan mucho los **videojuegos**. También me dan curiosidad por cómo están hechos: su lógica, sus servidores y su rendimiento.
 - Estoy abierto a colaborar en proyectos web, backend y de código abierto.
 
-```java
-public class SamuelMartinez {
-
-    String ubicacion   = "Villavicencio, Colombia";
-    String formacion   = "Ingenieria de Sistemas - Universidad de los Llanos";
-    String pasion      = "Backend, desarrollo web y bases de datos";
-
-    String[] lenguajes = {"Java", "Python", "Go", "C++", "JavaScript", "HTML", "CSS"};
-    String[] frameworks = {"Spring", "Django", "React"};
-    String[] basesDatos = {"MySQL", "PostgreSQL"};
-    String[] devops     = {"Docker", "Git"};
-
-    String aprendiendo = "Ingenieria de software y desarrollo orientado a la web";
-    String proyecto    = "Metamorfosis - gestion de metas";
-    String hobby       = "Videojuegos";
-}
-```
-
 ---
 
 ## Tecnologías
