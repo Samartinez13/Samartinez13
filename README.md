@@ -22,10 +22,29 @@ Soy **Samuel Martínez**, estudiante de **Ingeniería de Sistemas en la Universi
 
 Programo en varios lenguajes porque me gusta usar la herramienta adecuada para cada problema. Con **Java y Spring** construyo aplicaciones robustas, con **Python y Django** desarrollo rápido, con **Go** hago servicios ligeros, con **C++** practico algoritmos, y con **React, JavaScript, HTML y CSS** llevo todo a la web. Diseño y consulto datos en **MySQL** y **PostgreSQL**, y uso **Docker** para que mis proyectos corran igual en cualquier máquina.
 
+- Estoy construyendo **Metamorfosis**, una aplicación para la gestión de metas personales.
 - Estoy aprendiendo **ingeniería de software** y **desarrollo orientado a la web**: buenas prácticas, patrones de diseño, arquitectura y metodologías de desarrollo.
 - Me interesan el **desarrollo backend**, las **APIs**, el **modelado de bases de datos** y la **optimización** de procesos y rutas.
 - Fuera del código me gustan mucho los **videojuegos**. También me dan curiosidad por cómo están hechos: su lógica, sus servidores y su rendimiento.
 - Estoy abierto a colaborar en proyectos web, backend y de código abierto.
+
+```java
+public class SamuelMartinez {
+
+    String ubicacion   = "Villavicencio, Colombia";
+    String formacion   = "Ingenieria de Sistemas - Universidad de los Llanos";
+    String pasion      = "Backend, desarrollo web y bases de datos";
+
+    String[] lenguajes = {"Java", "Python", "Go", "C++", "JavaScript", "HTML", "CSS"};
+    String[] frameworks = {"Spring", "Django", "React"};
+    String[] basesDatos = {"MySQL", "PostgreSQL"};
+    String[] devops     = {"Docker", "Git"};
+
+    String aprendiendo = "Ingenieria de software y desarrollo orientado a la web";
+    String proyecto    = "Metamorfosis - gestion de metas";
+    String hobby       = "Videojuegos";
+}
+```
 
 ---
 
@@ -62,16 +81,16 @@ Programo en varios lenguajes porque me gusta usar la herramienta adecuada para c
 <div align="center">
 
 <a href="https://github.com/Samartinez13/Laboratorio-grafo-optimizacion">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samartinez13&repo=Laboratorio-grafo-optimizacion&theme=tokyonight&hide_border=true&locale=es" alt="Laboratorio-grafo-optimizacion"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Samartinez13&repo=Laboratorio-grafo-optimizacion&theme=tokyonight&hide_border=true&locale=es" alt="Laboratorio-grafo-optimizacion"/>
 </a>
 <a href="https://github.com/Samartinez13/shopping-cart-confirmar-compra">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samartinez13&repo=shopping-cart-confirmar-compra&theme=tokyonight&hide_border=true&locale=es" alt="shopping-cart-confirmar-compra"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Samartinez13&repo=shopping-cart-confirmar-compra&theme=tokyonight&hide_border=true&locale=es" alt="shopping-cart-confirmar-compra"/>
 </a>
 <a href="https://github.com/Samartinez13/Biblioteca">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samartinez13&repo=Biblioteca&theme=tokyonight&hide_border=true&locale=es" alt="Biblioteca"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Samartinez13&repo=Biblioteca&theme=tokyonight&hide_border=true&locale=es" alt="Biblioteca"/>
 </a>
 <a href="https://github.com/Samartinez13/shopping-cart-agregar-clean">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samartinez13&repo=shopping-cart-agregar-clean&theme=tokyonight&hide_border=true&locale=es" alt="shopping-cart-agregar-clean"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Samartinez13&repo=shopping-cart-agregar-clean&theme=tokyonight&hide_border=true&locale=es" alt="shopping-cart-agregar-clean"/>
 </a>
 
 </div>
@@ -90,12 +109,12 @@ Programo en varios lenguajes porque me gusta usar la herramienta adecuada para c
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Samartinez13&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&locale=es" alt="estadisticas"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samartinez13&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=es" alt="lenguajes mas usados"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=Samartinez13&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&locale=es" alt="estadisticas"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Samartinez13&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=es" alt="lenguajes mas usados"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Samartinez13&theme=tokyonight&hide_border=true&locale=es" alt="racha de contribuciones"/>
+<img src="https://streak-stats.demolab.com/?user=Samartinez13&theme=tokyonight&hide_border=true&locale=es" alt="racha de contribuciones"/>
 
 </div>
 
@@ -105,7 +124,7 @@ Programo en varios lenguajes porque me gusta usar la herramienta adecuada para c
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Samartinez13&theme=tokyo-night&hide_border=true&area=true" alt="grafica de actividad"/>
+<img width="100%" src="https://ghchart.rshah.org/36BCF7/Samartinez13" alt="grafica de actividad"/>
 
 </div>
 
@@ -115,7 +134,7 @@ Programo en varios lenguajes porque me gusta usar la herramienta adecuada para c
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Samartinez13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trofeos"/>
+<img src="https://github-trophies.vercel.app/?username=Samartinez13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trofeos"/>
 
 </div>
 
@@ -149,9 +168,3 @@ Programo en varios lenguajes porque me gusta usar la herramienta adecuada para c
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 
 </div>
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[tu-perfil])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[tu-correo])
-
-<p align="center"><i>"Optimizar no es solo hacer más con menos, es hacerlo mejor." ✨</i></p>
